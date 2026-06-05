@@ -42,9 +42,9 @@ This project was designed using a clear section-by-section layout, visual hierar
 
 ### Project 4: MEDIA
 <!-- Requirement 2: Embedded files using relative file paths -->
-🎥 [Watch GET TO KNOW ME (MP4)](media/GET%20TO%20KNOW%20ME.mp4) | [Visit my Prototype Link](https://canva.link/4qi8v5v6w20oahb)
+* [Watch GET TO KNOW ME (MP4)](media/GET%20TO%20KNOW%20ME.mp4) | [Visit my Prototype Link](https://canva.link/4qi8v5v6w20oahb)
 
-🎥 [Watch GET TO KNOW ME (MP4)](media/GET%20TO%20KNOW%20ME.mp4) | [Visit my Personal Introduction Video Link](https://canva.link/dspc34y26whb1pa)
+* [Watch GET TO KNOW ME (MP4)](media/GET%20TO%20KNOW%20ME.mp4) | [Visit my Personal Introduction Video Link](https://canva.link/dspc34y26whb1pa)
 
 #### Design Reflection
 For this project, I developed a prototype for Aurengel Perfume, featuring a signature collection, product information, and contact details, organized in a clean, user-friendly layout. I used the color palette Deep Burgundy, Royal Gold, and Warm Ivory to create a bold, elegant, and luxurious brand identity while maintaining visual consistency throughout the design. I also created a personal introduction video in a minimalist style, with smooth transitions, to present information clearly and professionally.
