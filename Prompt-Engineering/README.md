@@ -16,4 +16,3 @@ Act as a Sustainable Ecotourism Planner consulting for the Island Garden City of
 
 **Engine Used:** DALL-E 3
 **Visual Prompt:** A flat minimalist vector icon of a stylized giant clam shell (Taklobo) seamlessly intertwined with a clean, vibrant green leaf and a gentle ocean wave line underneath. Minimalist corporate logo style, flat solid colors, clean geometric lines, white background.
- 
