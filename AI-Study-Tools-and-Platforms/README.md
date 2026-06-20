@@ -4,7 +4,7 @@ Welcome to the policy research repository for the **Davao Regional Policy Think 
 
 ---
 
-## 🔍 Part 1: Vetted Literature Verification Matrix
+## Part 1: Vetted Literature Verification Matrix
 
 **Topic:** Climate Change Vulnerability and Urban Flood Risk Management in the Davao River Basin  
 **Vetting Associate:** Research Associate (Davao Office)  
@@ -21,7 +21,7 @@ I prompted an AI discovery tool to summarize recent literature, project registri
 
 ---
 
-## 📝 Part 2: Critical Reflection on AI Tool Limitations
+## Part 2: Critical Reflection on AI Tool Limitations
 
 While the AI platform effectively consolidated multi-page disaster risk assessments into succinct structural themes, it displayed significant vulnerabilities in data precision:
 
